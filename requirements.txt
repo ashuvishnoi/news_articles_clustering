@@ -1,0 +1,11 @@
+nltk==3.3
+gensim==3.6.0
+numpy==1.15.4
+Flask_Cors==3.0.7
+Unidecode==1.0.23
+pandas==0.23.4
+scipy==1.1.0
+requests==2.21.0
+Flask==1.0.2
+flask_swagger==0.2.13
+scikit_learn==0.20.2
